@@ -1,11 +1,7 @@
-.rh100{
-    height: 100vh;
-    align-items: center;
+.login-title {
+  margin-bottom: 1rem;
+  text-align: center;
 }
-.login-title{
-    margin-bottom: 1rem;
-    text-align: center;
-}
-.sButton{
-    float: right;
+.sButton {
+  float: right;
 }
